@@ -11,7 +11,7 @@ export const Bio = {
     "I have graduated on February 2024 with a Bachelor’s degree in Computer Science Engineering. I am passionate about expanding my knowledge and skills in areas such as Web Development, Machine Learning, Deep Learning, Data Science, and academic research. My goal is to grow continuously and contribute to meaningful projects that enhance my skills.",
   github: "https://github.com/Adhamkhalidsayed",
   resume:
-    "https://drive.google.com/file/d/1GUgkZcZb3PyDgdrJvW-UrvgTOZ6WrnhK/view?usp=sharing",
+    "https://drive.google.com/file/d/11Ja5NLSahZzAmh_SgOVQgYbrSKfvK_XX/view?usp=share_link",
   linkedin: "https://www.linkedin.com/in/adhamhammad/",
   insta: "https://www.instagram.com/__adhamhammad__/",
   facebook: "https://www.facebook.com/adhamkhalidhammad/",

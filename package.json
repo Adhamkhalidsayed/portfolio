@@ -1,7 +1,7 @@
 {
   "name": "myportfolio",
   "version": "0.1.0",
-  "homepage": "https://Adhamkhalidsayed.github.io/myportfolio-react-project",
+  "homepage": "https://Adhamkhalidsayed.github.io/portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.1.0",
